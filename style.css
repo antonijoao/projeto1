@@ -2,7 +2,6 @@ p{
     color: aliceblue;
     border: dotted 5px blue;
 }
-img{
-    width: 800;
-    height: 500 ;
+#imagem1{
+    width: 800px;
 }
