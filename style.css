@@ -7,5 +7,6 @@ p{
 }
 
 #"conteúdo-lista"{
-    text
+    text-align: left;
+    color:white
 }
